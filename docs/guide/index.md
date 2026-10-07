@@ -6,6 +6,7 @@
 
 - [如何写第一篇教程](./getting-started) —— 从新建文件到本地预览的完整流程
 - [好用的工具合集](./lanzou-tools) —— Windows / 手机常用工具，蓝奏云一键下载
+- [Codex 部署与中转站配置](./codex-ccswitch) —— 安装 Codex、接入三方中转站，用 CC Switch 一键导入切换
 
 ## 如何新增一篇教程
 

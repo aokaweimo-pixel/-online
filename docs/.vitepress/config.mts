@@ -32,6 +32,12 @@ export default defineConfig({
         items: [
           { text: '好用的工具合集', link: '/guide/lanzou-tools' }
         ]
+      },
+      {
+        text: 'AI 工具',
+        items: [
+          { text: 'Codex 部署与中转站配置', link: '/guide/codex-ccswitch' }
+        ]
       }
     ],
 
