@@ -26,6 +26,12 @@ export default defineConfig({
           { text: '教程总览', link: '/guide/' },
           { text: '如何写第一篇教程', link: '/guide/getting-started' }
         ]
+      },
+      {
+        text: '资源分享',
+        items: [
+          { text: '好用的工具合集', link: '/guide/lanzou-tools' }
+        ]
       }
     ],
 
